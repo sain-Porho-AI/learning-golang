@@ -1,3 +1,3 @@
 module booking-app
 
-go 1.13
+go 1.21.6
